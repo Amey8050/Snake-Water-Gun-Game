@@ -7,16 +7,18 @@ How to Play:
 
 The game is played between you and the computer.
 You can choose between three options: Snake, Water, or Gun.
-The rules are:
-Snake drinks Water.
-Gun shoots Snake.
-Water douses Gun.
-The computer will randomly select its choice, and the winner is determined based on the rules above.
-Features:
 
-Simple and intuitive text-based interface.
-Randomized computer choices for unpredictable gameplay.
-Clear instructions and easy-to-understand rules.
+The rules are:
+  Snake drinks Water.
+  Gun shoots Snake.
+  Water douses Gun.
+The computer will randomly select its choice, and the winner is determined based on the rules above.
+
+Features:
+  Simple and intuitive text-based interface.
+  Randomized computer choices for unpredictable gameplay.
+  Clear instructions and easy-to-understand rules.
+  
 Tech Stack:
 
 Python
